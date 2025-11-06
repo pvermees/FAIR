@@ -1,7 +1,7 @@
 # FAIR data workflows for geochronology
 
 This repository groups raw mass spectrometer data and scripts for
-fully FAIR (Findable, Accessible, Interoperable and Reporducible)
+fully FAIR (Findable, Accessible, Interoperable and Reproducible)
 geochronology.
 
 ## Contents
