@@ -34,11 +34,11 @@ import Pkg; Pkg.add(url="https://github.com/pvermees/KJ.jl#4fba4a2")
 
 ## FAIR workflow
 
-Navigate to the `Hu25` folder and run the following code at the Julia REPL:
+1. Navigate to the `Hu25` folder and run the following code at the Julia REPL:
 
 ```
 import KJ
 include("process.jl")
 ```
 
-Open the content of `json` in [`IsoplotR`](https://isoplotr.es.ucl.ac.uk)
+2. Open the content of `json` in [`IsoplotR`](https://isoplotr.es.ucl.ac.uk)
