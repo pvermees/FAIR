@@ -38,7 +38,7 @@ import Pkg; Pkg.add(url="https://github.com/pvermees/KJ.jl#5d71d65")
 
 ```
 using KJ
-TUI(logbook="Azizi.log")
+TUI(logbook="Azizi26.log")
 ```
 
-2. Open the content of `json` in [`IsoplotR`](https://isoplotr.es.ucl.ac.uk)
+2. Open the contents of `json` in [`IsoplotR`](https://isoplotr.es.ucl.ac.uk)
