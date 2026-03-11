@@ -8,7 +8,7 @@ FAIR apatite U-Pb data for two monzodiorites by Azizi et al. (in preparation)
 
 [json](json): `json` files with post-processing instructions for [`IsoplotR`](https://isoplotr.es.ucl.ac.uk)
 
-[process.jl](Azizi26.log): a `KJ` log file that turns `data` into [`json/all.json`](json/all.json)
+[Azizi26.log](Azizi26.log): a `KJ` log file that turns `data` into [`json/all.json`](json/all.json)
 
 ## Prerequisites
 
