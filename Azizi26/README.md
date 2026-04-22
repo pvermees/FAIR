@@ -1,6 +1,9 @@
 # Azizi26
 
-FAIR apatite U-Pb data for two monzodiorites by Azizi et al. (in preparation)
+FAIR apatite U-Pb data for two monzodiorites in "Apatite U-Pb
+Geochronology of Quartz Monzodiorite in the Moroccan Central Massif
+(Ighir Amellal-Tanna Izem Area): Implications for Pb-Zn-Cu and Sb
+Mineralization." by Azizi et al. (in review)
 
 ## Contents
 
